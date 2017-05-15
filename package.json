@@ -37,7 +37,8 @@
     "node-inspector": "^0.12.8"
   },
   "dependencies": {
-    "react": "^15.2.1",
-    "react-dom": "^15.2.1"
+    "enzyme": "^2.8.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
   }
 }
